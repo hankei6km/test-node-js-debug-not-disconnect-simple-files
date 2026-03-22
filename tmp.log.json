@@ -1,0 +1,1 @@
+{"tag":"dap.receive","timestamp":1773220878967,"metadata":{"connectionId":35,"message":{"command":"saveDiagnosticLogs","arguments":{"toFile":"/workspaces/test-node-js-debug-not-disconnect-simple-files/tmp.log.json"},"type":"request","seq":9}},"level":0}
