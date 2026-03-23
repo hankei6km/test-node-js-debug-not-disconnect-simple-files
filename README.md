@@ -25,6 +25,10 @@ VS Code js-debug 拡張機能で複数セッションが同時に開始される
 - `Always` でも発生する。
 - JavaScript Debug Terminal でも発生する。
 - Dev Container でも発生する。
+- Codespaces でも発生する(マシンタイプは 4 cores でないと再現しにくい、理由は不明)
+  - Windows では 2 cores では発生しない、4 cores で発生する。
+  - Ubuntu では 2 cores では発生しない、4 cores で発生する。
+  - Chromebook + Linux では 2 cores でも発生する。
 
 ## 備考(プロセスツリー)
 
