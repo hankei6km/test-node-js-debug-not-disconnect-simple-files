@@ -8,6 +8,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "start:eval": "node worker1.js& node worker2.js& node worker3.js& wait; echo '--- done ---'"
+    "start:job": "node worker1.js& node worker2.js& node worker3.js& wait; echo '--- done ---'"
   }
 }
