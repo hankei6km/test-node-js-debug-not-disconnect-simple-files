@@ -65,13 +65,13 @@ VS Code js-debug 拡張機能で複数セッションが同時に開始される
 
 IDE
 ```
-Version: 1.112.0 (user setup)
-Commit: 07ff9d6178ede9a1bd12ad3399074d726ebe6e43
-Date: 2026-03-17T18:09:23Z
-Electron: 39.8.0
-ElectronBuildId: 13470701
+Version: 1.113.0 (user setup)
+Commit: cfbea10c5ffb233ea9177d34726e6056e89913dc
+Date: 2026-03-24T15:07:18+01:00
+Electron: 39.8.3
+ElectronBuildId: 13620978
 Chromium: 142.0.7444.265
-Node.js: 22.22.0
+Node.js: 22.22.1
 V8: 14.2.231.22-electron.0
 OS: Windows_NT x64 10.0.26200
 ```
